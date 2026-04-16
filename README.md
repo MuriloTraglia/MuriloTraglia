@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre</h2>
 
 ###
 
-<p align="left">I am currently a student at FIAP and I started my journey in programming in 2026. As a beginner, I am focused on learning and building a solid foundation in software and web development.<br><br>I am currently studying HTML, CSS, JavaScript, SQL, C, Java and Python, and working on improving my skills through practice and personal projects.</p>
+<p align="left">Atualmente sou estudante do ensino médio técnico em Desenvolvimento Full Stack na FIAP e iniciei minha jornada na programação em 2026. Como iniciante, estou focado em aprender e construir uma base sólida em desenvolvimento de software e web.<br><br>Atualmente estudo HTML, CSS, JavaScript, SQL, Java e Python, e estou constantemente evoluindo minhas habilidades através de estudos e aplicação prática.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Principais linguagens de programação:</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Currently learning</h2>
+<h2 align="left">Em processo de aprendizado:</h2>
 
 ###
 
@@ -38,6 +38,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<h2 align="left">Contato:</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
 ###
