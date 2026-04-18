@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full Stack Developer Student based in São Paulo, Brazil</p>
+<p align="left">Estudante de Desenvolvimento Full Stack | São Paulo - Brasil</p>
 
 ###
 
